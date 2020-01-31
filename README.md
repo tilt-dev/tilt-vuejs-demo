@@ -4,6 +4,8 @@ This is a demo Vue.js app showing how to do frontend development in a local Kube
 
 This [docs page](https://docs.tilt.dev/nodejs_microservice_hotreloading.html) provides additional context for hot reloading in Tilt, as well as a walkthrough of a [demo React app using Tilt](https://github.com/windmilleng/tilt-frontend-demo). This project is similar, but for folks interested in using Vue.js instead.
 
+This project was bootstrapped with [Vue CLI](https://cli.vuejs.org/).
+
 ## Instructions
 
 - Install [Tilt](https://tilt.dev/) and a [local Kubernetes environment](https://docs.tilt.dev/choosing_clusters.html).
