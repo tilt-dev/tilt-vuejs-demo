@@ -11,7 +11,7 @@ This project was bootstrapped with [Vue CLI](https://cli.vuejs.org/).
 - Install [Tilt](https://tilt.dev/) and a [local Kubernetes environment](https://docs.tilt.dev/choosing_clusters.html).
 - Optional: Read the beginner [Tilt tutorial](https://docs.tilt.dev/tutorial.html).
 - With the local Kubernetes environment running, `cd` into the root directory of this project, and run `tilt up`.
-- Navigate to `http://localhost:8080/` in your browser.
+- Navigate to [http://localhost:8080/](http://localhost:8080/) in your browser.
 - Make any changes to the app, such as saving new text in [HelloWorld.vue](src/components/HelloWorld.vue). 
 - Observe the changes reflected immediately in your browser, without refreshing.
 
